@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#5964DD17"
+    android:text="first note"
+    android:textSize="24sp"
+    android:id="@+id/txtItemNote"
+    android:textAlignment="textStart"
+    android:paddingHorizontal="10dp"
+    android:paddingVertical="20dp"
+    android:textStyle="bold|italic"
+    android:layout_height="wrap_content">
+
+</TextView>
